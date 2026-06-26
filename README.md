@@ -1,5 +1,5 @@
 #【13章】AI Agent股票异动风控机器人实战（支持美股+A股）
-获课：xingkeit.top/15774/
+- [大型资源站xingkeit.top](http://xingkeit.top/)
 
 
 金融自主智能技术新趋势：13 章全流程搭建覆盖 A 股美股的 AI 风控智能体
